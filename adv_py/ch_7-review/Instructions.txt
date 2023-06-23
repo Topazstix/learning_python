@@ -1,0 +1,23 @@
+Daily dietary supplements are popular. Today, many companies make specialty supplements for men and women. Attached are two text files containing a list of vitamin levels within each supplement.
+
+Write a Python program to read each text file. Determine differences between the vitamins and level of the two files. There can be two differences: 1) the level of a vitamin and  2) a vitamin in one and not the other.  Write the output to the screen aligned using format specifiers. The output should appear as:
+
+Supplement Differences
+
+Female                                    Male                                Larger Difference
+
+------------------------          ------------------------       ------------------------------
+
+Potassium, 30                     Potassium, 20                   10  - Female
+
+Not listed                        Lycopene, 600                   600 - Male
+
+------------------------         -------------------------      -------------------------------
+
+ONLY TECHNIQUES TAUGHT IN CSC119 MAY BE USED. NO ADVANCED TECHNIQUES MAY BE USED
+
+THIS IS NOT A GROUP PROJECT THE WORK YOU SUBMIT SHOULD BE YOUR OWN
+
+You must use a main() function along with at least two (2) other functions. Your program must contain a preamble, function comments as taught in the book and comments as necessary to explain its functionality.
+
+Attach your finished program along with both text files in zip format to this link by the due date.

@@ -1,0 +1,27 @@
+Vitamin A, 1050
+Vitamin C, 120
+Vitamin D3, 25
+Vitamin E, 27
+Vitamin K, 60
+Thiamin, 1.5
+Riboflavin, 1.7
+Niacin, 20
+Vitamin B6, 6
+Folate, 500 
+Vitamin B12, 100
+Biotin, 30
+Pantothenic Acid, 10
+Calcium, 210
+Phosphorus, 20
+Iodine, 150
+Magnesium, 75
+Zinc, 15
+Selenium, 21
+Copper, 0.5
+Manganese, 4
+Chromium, 60
+Molybdenum, 50
+Chloride, 72
+Potassium, 80
+Lutein, 300
+Lycopene, 600
